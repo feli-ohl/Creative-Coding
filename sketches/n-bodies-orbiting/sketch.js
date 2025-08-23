@@ -19,7 +19,7 @@ function setup() {
 }
 
 function draw() {
-  background(255);
+  background(220);
   translate(width / 2, height / 2);
   
   for (let i = 0; i < bodies.length; i++) {
